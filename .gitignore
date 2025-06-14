@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Output images and generated plots
+images/
+
+# VS Code project files
+.vscode/
