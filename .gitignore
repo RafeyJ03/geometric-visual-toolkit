@@ -10,8 +10,5 @@ __pycache__/
 # Jupyter Notebook checkpoints (if any)
 .ipynb_checkpoints/
 
-# Output images and generated plots
-images/
-
 # VS Code project files
 .vscode/
